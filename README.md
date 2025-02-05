@@ -124,6 +124,7 @@
 홈 지도 탐색
 ![Image](https://github.com/user-attachments/assets/47e57da8-1636-4778-a73d-1cf1baa373a9)
 
+![Image](https://github.com/user-attachments/assets/07082857-c19c-4ae7-a043-2435eb890218)
 
 
 ### 🏊‍♂️ 수영장 개별 조회
@@ -133,15 +134,16 @@
 리뷰 및 운영 정보를 확인 가능합니다.
 
 수영장 개별 조회
-![Image](https://github.com/user-attachments/assets/07082857-c19c-4ae7-a043-2435eb890218)
 
+![Image](https://github.com/user-attachments/assets/0737c629-69ed-4b2d-8a6f-e0b597e91e9b)
 
 
 ### ✍ 리뷰 작성
 
 사용자는 방문한 수영장의 리뷰를 작성하고 다른 사용자들과 공유할 수 있습니다.
 
-![Image](https://github.com/user-attachments/assets/0737c629-69ed-4b2d-8a6f-e0b597e91e9b)
+![Image](https://github.com/user-attachments/assets/ad82ba5e-d4af-429b-b02b-fadb63724062)
+
 
 
 ### 📈 수영 기록 관리 및 공유
@@ -151,7 +153,6 @@
 기록을 시각적으로 확인 가능하며, 공유할 수 있습니다
 
 
-![Image](https://github.com/user-attachments/assets/ad82ba5e-d4af-429b-b02b-fadb63724062)
 
 수영 기록
 
