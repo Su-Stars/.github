@@ -1,4 +1,4 @@
-# 🐬  "내 주변 수영장을 한눈에, 수영 기록은 손쉽게" 어푸
+# 🏊🏻‍♂️  "내 주변 수영장을 한눈에, 수영 기록은 손쉽게" 어푸
 
 썸네일 예정
 
@@ -104,8 +104,9 @@
 
 ## 기능
 
+
 지역 필터
-![image](https://github.com/user-attachments/assets/9865f05d-7aed-4033-a6f9-20164612356b)
+![image](https://private-user-images.githubusercontent.com/152577867/409787959-ddda33c0-2f08-42ab-be65-e5bb6296f7a9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzg3MzE4ODcsIm5iZiI6MTczODczMTU4NywicGF0aCI6Ii8xNTI1Nzc4NjcvNDA5Nzg3OTU5LWRkZGEzM2MwLTJmMDgtNDJhYi1iZTY1LWU1YmI2Mjk2ZjdhOS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIwNVQwNDU5NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMjA3MjYyNWNiNWY5MmM3NjRiYWM3MWNmMzExZWVlYzQ3OTg3NmNhNmZjMzljOWNjOTAxM2NjNjBmMzIyNWJhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.dtAv4l-J3Fsd3hxFM2c5gLN7xtrQXIocvIWQa69khGM)
 
 홈 키워드 검색
 ![image](https://github.com/user-attachments/assets/d601fb34-1f81-4b16-b2b9-faa3b49d7816)
