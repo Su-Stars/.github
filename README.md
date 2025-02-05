@@ -111,8 +111,6 @@
 
 ### 🔍 지역 필터링
 
-지역 필터
-![Image](https://github.com/user-attachments/assets/ddda33c0-2f08-42ab-be65-e5bb6296f7a9)
 
 ### 🏠 키워드 검색 & 지도 탐색
 
@@ -120,9 +118,12 @@
 
 지도를 활용해 주변 수영장을 직관적으로 탐색할 수 있습니다.
 
+지역 필터
+![Image](https://github.com/user-attachments/assets/ddda33c0-2f08-42ab-be65-e5bb6296f7a9)
 
-![Image](https://github.com/user-attachments/assets/47e57da8-1636-4778-a73d-1cf1baa373a9)
 홈 지도 탐색
+![Image](https://github.com/user-attachments/assets/47e57da8-1636-4778-a73d-1cf1baa373a9)
+
 
 
 ### 🏊‍♂️ 수영장 개별 조회
@@ -131,8 +132,9 @@
 
 리뷰 및 운영 정보를 확인 가능합니다.
 
-![Image](https://github.com/user-attachments/assets/07082857-c19c-4ae7-a043-2435eb890218)
 수영장 개별 조회
+![Image](https://github.com/user-attachments/assets/07082857-c19c-4ae7-a043-2435eb890218)
+
 
 
 ### ✍ 리뷰 작성
