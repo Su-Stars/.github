@@ -25,7 +25,7 @@
 | <img src="https://avatars.githubusercontent.com/u/133619736?v=4" width="120" /> | <img src="https://avatars.githubusercontent.com/u/152577867?v=4" width="120" /> | <img src="https://avatars.githubusercontent.com/u/92427216?v=4" width="120" /> | <img src="https://avatars.githubusercontent.com/u/174254000?v=4" width="120"/>  | <img src="https://avatars.githubusercontent.com/u/114223031?v=4" width="120" />  |
 | <p align="center">FE</p> | <p align="center">FE</p> | <p align="center">FE</p> | <p align="center">BE</p> | <p align="center">BE</p> |
 
-
+<br/>
 
 ## 개발 환경
 ### 프론트엔드
@@ -53,7 +53,7 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 
-
+<br/>
 
 ### 프로젝트 일정
 
@@ -91,7 +91,7 @@
 
 
 
-
+<br/>
 
 
 ## 설계
