@@ -193,3 +193,77 @@
 | 오수완                                                                    |
 | ----------------------------------------------------------------------------------------- |
 | <div align="center"><img src="https://github.com/user-attachments/assets/e7a04376-81d1-4e15-b5f3-f8329a61adf2" width="50%"></div> |
+
+## 작성된 API 목록
+
+**Users 도메인**
+
+`/api/v1/users` :
+
+* `GET me`
+* `DELETE me`
+* `PATCH me`
+* `GET me/reviews`
+* `POST image`
+* `DELETE image`
+* `PATCH image`
+
+**Auth 도메인**
+
+`/api/v1/auth` :
+
+* `POST login`
+* `POST logout`
+* `POST refresh-token`
+* `POST register`
+* `POST reset-password`
+* `POST email-verification`
+
+**Pools 도메인**
+
+`api/v1/pools` :
+
+* `GET /`
+* `POST /`
+* `GET :poolId`
+* `PATCH :poolId`
+* `DELETE :poolId`
+* `POST images/:poolId`
+* `PUT images/:pool_id`
+* `GET :poolId/reviews`
+* `POST :poolId/reviews`
+* `PATCH :poolId/reviews/:reviewId`
+* `DELETE :poolId/reviews/:reviewId`
+* `POST :pool_id/bookmark`
+* `DELETE :pool_id/bookmark`
+* `GET :pool_id/bookmark`
+
+**Reviews 도메인**
+
+`api/v1/reviews` :
+
+* `GET /`
+
+**Bookmarks 도메인**
+
+`api/v1/bookmarks` :
+
+* `POST /`
+* `GET /`
+* `DELETE :bookmark_id`
+
+**SwimLogs 도메인**
+
+`api/v1/logs` :
+
+* `POST /`
+* `GET /`
+* `GET user-logs`
+* `GET :log_id`
+* `DELETE :log_id`
+
+**Bulletin 도메인**
+
+`api/v1/bulletin` :
+
+`GET /`
