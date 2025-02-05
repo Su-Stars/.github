@@ -106,20 +106,27 @@
 
 
 지역 필터
-![image](https://private-user-images.githubusercontent.com/152577867/409787959-ddda33c0-2f08-42ab-be65-e5bb6296f7a9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzg3MzE4ODcsIm5iZiI6MTczODczMTU4NywicGF0aCI6Ii8xNTI1Nzc4NjcvNDA5Nzg3OTU5LWRkZGEzM2MwLTJmMDgtNDJhYi1iZTY1LWU1YmI2Mjk2ZjdhOS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIwNVQwNDU5NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMjA3MjYyNWNiNWY5MmM3NjRiYWM3MWNmMzExZWVlYzQ3OTg3NmNhNmZjMzljOWNjOTAxM2NjNjBmMzIyNWJhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.dtAv4l-J3Fsd3hxFM2c5gLN7xtrQXIocvIWQa69khGM)
+![Image](https://github.com/user-attachments/assets/ddda33c0-2f08-42ab-be65-e5bb6296f7a9)
+
 
 홈 키워드 검색
-![image](https://github.com/user-attachments/assets/d601fb34-1f81-4b16-b2b9-faa3b49d7816)
 
+![Image](https://github.com/user-attachments/assets/47e57da8-1636-4778-a73d-1cf1baa373a9)
 홈 지도 탐색
-![image](https://github.com/user-attachments/assets/bb3df54c-fa8c-4cba-a1c7-3d4fe7f00476)
 
+![Image](https://github.com/user-attachments/assets/07082857-c19c-4ae7-a043-2435eb890218)
 수영장 개별 조회
-![image](https://github.com/user-attachments/assets/e85ddf3a-69a0-43a2-9be3-0fb5d3afbe0c)
+
+![Image](https://github.com/user-attachments/assets/0737c629-69ed-4b2d-8a6f-e0b597e91e9b)
 
 리뷰 작성
-![image](https://github.com/user-attachments/assets/9dfa23f0-878f-4afc-b4f4-a1a432be6a9c)
 
-오수완
-![image](https://github.com/user-attachments/assets/d0654286-f4a9-480d-940a-8496e2d6459e)
+![Image](https://github.com/user-attachments/assets/ad82ba5e-d4af-429b-b02b-fadb63724062)
 
+수영 기록
+
+![Image](https://github.com/user-attachments/assets/f3bafbf4-863b-4049-a4d7-a0af3f065223)
+
+오수완 
+
+![Image](https://github.com/user-attachments/assets/e7a04376-81d1-4e15-b5f3-f8329a61adf2)
