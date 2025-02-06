@@ -75,7 +75,7 @@
 ## 설계
 | 설계                                                                          |
 | ----------------------------------------------------------------------------------------- |
-| <div align="center"><img src="https://github.com/user-attachments/assets/d136c0f8-416f-41f1-8750-9dd34600c3a5" width="50%"></div> |
+| <div align="center"><img src="https://github.com/user-attachments/assets/6a4b0569-4bc8-4033-a9df-73d7308fe796" width="50%"></div> |
 
 ## 📌 주요 기능
 ### 🔍 지역 필터링
