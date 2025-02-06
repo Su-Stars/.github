@@ -3,6 +3,12 @@
 ![최종프로젝트 썸네일](https://github.com/user-attachments/assets/99bf4041-619c-462f-bba4-3b045d5bcb5c)
 
 
+- [서비스 링크](https://apuu.netlify.app/)
+- [노션 링크](https://www.notion.so/2-a09c02ff095545d4bf00884941e82dd0?pvs=4)
+- [피그마 링크](https://www.figma.com/design/1HrYWDA8qCQhe16X9KLbeQ/%EC%96%B4%ED%91%B8-with-NextUI?node-id=5402-214)
+- [프론트엔드 저장소](https://github.com/Su-Stars/frontend)
+- [백엔드 저장소](https://github.com/Su-Stars/swim_nest)
+
 - 테스트 메일: `ddd@naver.com`
 - 테스트 비밀번호: `qwerqwer`
 
