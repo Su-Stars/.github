@@ -9,28 +9,17 @@
 - 테스트 비밀번호: `qwerqwer`
 
 
-<br/>
-
 ## 프로젝트 소개
 
 수영장 검색 & 기록 서비스
 
-수스타는 사용자가 원하는 지역의 수영장을 쉽게 검색하고, 이용 후기 및 수영 기록을 관리할 수 있는 서비스입니다.
-
-
-
-<br/>
-
+어푸!는 사용자가 원하는 지역의 수영장을 쉽게 검색하고, 이용 후기 및 수영 기록을 관리할 수 있는 서비스입니다.
 
 ## 팀원 소개
-
-
 | [정동구](https://github.com/dongguJeong) | [채문성](https://github.com/chaesunbak) | [김경원](https://github.com/Gyeongwon-Gim) | [박정환](https://github.com/JNL-2002) | [공담형](https://github.com/damhyeong) |
 | -- | -- | -- | -- | -- |
 | <img src="https://avatars.githubusercontent.com/u/133619736?v=4" width="120" /> | <img src="https://avatars.githubusercontent.com/u/152577867?v=4" width="120" /> | <img src="https://avatars.githubusercontent.com/u/92427216?v=4" width="120" /> | <img src="https://avatars.githubusercontent.com/u/174254000?v=4" width="120"/>  | <img src="https://avatars.githubusercontent.com/u/114223031?v=4" width="120" />  |
 | <p align="center">FE</p> | <p align="center">FE</p> | <p align="center">FE</p> | <p align="center">BE</p> | <p align="center">BE</p> |
-
-<br/>
 
 ## 개발 환경
 ### 프론트엔드
@@ -57,9 +46,6 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-
-<br/>
-
 ## 프로젝트 일정
 
 - 전체 개발 기간 : 2025년 1월 3일(금) ~ 2025년 2월 6일(목)
@@ -70,9 +56,7 @@
   - 스프린트 3 :2025냔 1월 20일(월)  ~ 2025년 01월 25일(토)
   - 스프린트 4 :2025년 1월 27일(월) ~ 2025년 2월 1일(토)
   - 스프린트 5 :2025년 2월 3일(월) ~ 2025년 2월 6일(목)
- 
-
-    
+  - 
 <details>
   <summary>자세히 보기</summary>
   
@@ -92,28 +76,12 @@
   
 </details>
 
-
-<br/>
-
-
 ## 설계
-
-
 | 설계                                                                          |
 | ----------------------------------------------------------------------------------------- |
 | <div align="center"><img src="https://github.com/user-attachments/assets/d136c0f8-416f-41f1-8750-9dd34600c3a5" width="50%"></div> |
 
-
-
-<br/>
-
-
 ## 📌 주요 기능
-
-
-
-
-
 ### 🔍 지역 필터링
 - 사용자는 원하는 지역을 선택하여 근처 수영장을 탐색할 수 있습니다.
 
@@ -121,18 +89,9 @@
 | ----------------------------------------------------------------------------------------- |
 | <div align="center"><img src="https://github.com/user-attachments/assets/ddda33c0-2f08-42ab-be65-e5bb6296f7a9" width="50%"></div> |
 
-<br/>
-<br/>
-
-
-
-
-
 ### 🏠 키워드 검색 & 지도 탐색
-
 - 키워드를 입력하여 원하는 수영장을 검색할 수 있습니다.
 - 지도를 활용해 주변 수영장을  탐색할 수 있습니다.
-
 
 | 인근 수영장 검색                                                                          |
 | ----------------------------------------------------------------------------------------- |
@@ -142,14 +101,7 @@
 | ----------------------------------------------------------------------------------------- |
 |<div align="center"><img src="https://github.com/user-attachments/assets/07082857-c19c-4ae7-a043-2435eb890218" width="50%"></div> |
 
-
-
-<br/>
-<br/>
-
-
 ### 🏊‍♂️ 수영장 개별 조회
-
 - 특정 수영장의 상세 정보를 확인할 수 있습니다.
 - 리뷰 및 운영 정보를 확인 가능합니다.
 
@@ -157,25 +109,13 @@
 | ----------------------------------------------------------------------------------------- |
 | <div align="center"><img src="https://github.com/user-attachments/assets/e963d94d-d907-4bf4-9538-63e40d05b932" width="50%"></div> |
 
-
-<br/>
-<br/>
-
-
-
+<
 ### ✍ 리뷰 작성
-
 - 사용자는 방문한 수영장의 리뷰를 작성하고 다른 사용자들과 공유할 수 있습니다.
-
 
 | 리뷰 작성                                                                      |
 | ----------------------------------------------------------------------------------------- |
 | <div align="center"><img src="https://github.com/user-attachments/assets/ad82ba5e-d4af-429b-b02b-fadb63724062" width="50%"></div> |
-
-
-<br/>
-<br/>
-
 
 
 ### 📈 수영 기록 관리 및 공유
@@ -189,15 +129,12 @@
 | <div align="center"><img src="https://github.com/user-attachments/assets/f3bafbf4-863b-4049-a4d7-a0af3f065223" width="50%"></div> |
 
 
-
 | 오수완                                                                    |
 | ----------------------------------------------------------------------------------------- |
 | <div align="center"><img src="https://github.com/user-attachments/assets/e7a04376-81d1-4e15-b5f3-f8329a61adf2" width="50%"></div> |
 
 ## 작성된 API 목록
-
 **Users 도메인**
-
 `/api/v1/users` :
 
 * `GET me`
